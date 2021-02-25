@@ -1,0 +1,32 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+39+Text&family=Libre+Baskerville:wght@700&display=swap'); */
+
+body {
+  font-family: 'Times New Roman', Verdana, sans-serif;
+}
+
+#test1 {
+  font-family: serif;
+}
+
+#test2 {
+  font-family: sans-serif;
+}
+
+#test3 {
+  font-family: cursive;
+}
+
+#test4 {
+  font-family: fantasy;
+}
+
+#test5 {
+  font-family: monospace;
+}
+
+#externeSchriftart {
+  font-family: 'Libre Barcode 39 Text', cursive;
+}
+#externeSchriftart2 {
+  font-family: 'Libre Baskerville', serif;
+}
