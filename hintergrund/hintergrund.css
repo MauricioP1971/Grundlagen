@@ -15,12 +15,12 @@ div {
 
 #test03 {
   background-image: url("hintergrund.png");
-  background-repeat: repeat-x;
+  background-repeat: repeat-y;
 }
 
 #test04 {
   background-image: url("hintergrund.png");
-  background-repeat: repeat-y;
+  background-repeat: repeat-x;
 }
 
 #test05 {
